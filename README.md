@@ -13,6 +13,11 @@ I created this project to eliminate the repetitive "copy-paste" cycle associated
 * **Custom UI:** Injects an unobtrusive button directly into the target site for immediate access.
 * **Workflow Optimization:** Turns a multi-step manual process into a single-click action.
 
+## 🔒 Privacy & Security Note
+Please note that certain variables, element selectors, and URLs within this script have been replaced with **generic placeholders** (e.g., `https://your-company-portal.com` or `.internal-invoice-class`). 
+
+This was done to protect proprietary company information while still sharing the functional logic of the automation. To use this script in your own environment, simply update the `targetURL` and `selectors` in the configuration section of the script.
+
 ## 🛠️ Tech Stack
 * **Language:** JavaScript
 * **Environment:** [e.g., Tampermonkey / Greasemonkey / Chrome Extension]
